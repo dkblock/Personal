@@ -1,0 +1,10 @@
+D:\Projects\RLE+BW\RLE+BW\bin\Debug\RLE+BW.exe.config
+D:\Projects\RLE+BW\RLE+BW\bin\Debug\RLE+BW.exe
+D:\Projects\RLE+BW\RLE+BW\bin\Debug\RLE+BW.pdb
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE+BW.csprojAssemblyReference.cache
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE_BW.Form1.resources
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE_BW.Properties.Resources.resources
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE+BW.csproj.GenerateResource.cache
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE+BW.csproj.CoreCompileInputs.cache
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE+BW.exe
+D:\Projects\RLE+BW\RLE+BW\obj\Debug\RLE+BW.pdb

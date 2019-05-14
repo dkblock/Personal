@@ -1,0 +1,10 @@
+D:\Projects\HuffmanTree\HuffmanTree\bin\Debug\HuffmanTree.exe.config
+D:\Projects\HuffmanTree\HuffmanTree\bin\Debug\HuffmanTree.exe
+D:\Projects\HuffmanTree\HuffmanTree\bin\Debug\HuffmanTree.pdb
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.csprojAssemblyReference.cache
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.Form1.resources
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.Properties.Resources.resources
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.csproj.GenerateResource.cache
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.csproj.CoreCompileInputs.cache
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.exe
+D:\Projects\HuffmanTree\HuffmanTree\obj\Debug\HuffmanTree.pdb

@@ -1,0 +1,13 @@
+D:\Projects\Lab4\Lab4\bin\Release\Lab4.exe.config
+D:\Projects\Lab4\Lab4\bin\Release\Lab4.exe
+D:\Projects\Lab4\Lab4\bin\Release\Lab4.pdb
+D:\Projects\Lab4\Lab4\obj\Release\Lab4.csproj.CoreCompileInputs.cache
+D:\Projects\Lab4\Lab4\obj\Release\Lab4.exe
+D:\Projects\Lab4\Lab4\obj\Release\Lab4.pdb
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\bin\Release\Lab4.exe.config
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\bin\Release\Lab4.exe
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\bin\Release\Lab4.pdb
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\obj\Release\Lab4.csprojAssemblyReference.cache
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\obj\Release\Lab4.csproj.CoreCompileInputs.cache
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\obj\Release\Lab4.exe
+D:\Projects\3 KURS\Labs\Lab4 - skipList\Lab4\obj\Release\Lab4.pdb

@@ -1,0 +1,21 @@
+c:\users\kulikov4\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+c:\users\kulikov4\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+c:\users\kulikov4\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+c:\users\kulikov4\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+c:\users\kulikov4\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+c:\users\kulikov4\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+c:\users\kulikov4\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Projects\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Projects\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Projects\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Projects\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Projects\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Projects\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Projects\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Projects\3 KURS\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Projects\3 KURS\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Projects\3 KURS\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Projects\3 KURS\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Projects\3 KURS\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Projects\3 KURS\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Projects\3 KURS\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb

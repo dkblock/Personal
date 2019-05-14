@@ -1,0 +1,14 @@
+D:\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Projects\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\bin\Debug\Lab5.exe.config
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\bin\Debug\Lab5.exe
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\bin\Debug\Lab5.pdb
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\obj\Debug\Lab5.exe
+D:\Projects\3 KURS\Labs\Lab5 - binaryHeap\Lab5\obj\Debug\Lab5.pdb

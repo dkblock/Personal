@@ -1,0 +1,10 @@
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Form1.resources
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Properties.Resources.resources
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.GenerateResource.cache
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+D:\Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe.config
+D:\Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+D:\Projects\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+D:\Projects\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb

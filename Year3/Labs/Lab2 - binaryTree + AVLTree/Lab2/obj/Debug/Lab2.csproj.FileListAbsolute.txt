@@ -1,0 +1,21 @@
+D:\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
+H:\3_curs\Labs\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+H:\3_curs\Labs\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+H:\3_curs\Labs\Lab2\Lab2\obj\Debug\Lab2.exe
+H:\3_curs\Labs\Lab2\Lab2\obj\Debug\Lab2.pdb
+H:\3_curs\Labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+H:\3_curs\Labs\Lab2\Lab2\bin\Debug\Lab2.exe
+H:\3_curs\Labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Projects\3 KURS\Labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Projects\3 KURS\Labs\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Projects\3 KURS\Labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Projects\3 KURS\Labs\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Projects\3 KURS\Labs\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Projects\3 KURS\Labs\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Projects\3 KURS\Labs\Lab2\Lab2\obj\Debug\Lab2.pdb

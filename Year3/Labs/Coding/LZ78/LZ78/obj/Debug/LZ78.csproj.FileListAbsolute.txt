@@ -1,0 +1,10 @@
+D:\Projects\LZ78\LZ78\bin\Debug\LZ78.exe.config
+D:\Projects\LZ78\LZ78\bin\Debug\LZ78.exe
+D:\Projects\LZ78\LZ78\bin\Debug\LZ78.pdb
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.csprojAssemblyReference.cache
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.Form1.resources
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.Properties.Resources.resources
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.csproj.GenerateResource.cache
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.csproj.CoreCompileInputs.cache
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.exe
+D:\Projects\LZ78\LZ78\obj\Debug\LZ78.pdb
