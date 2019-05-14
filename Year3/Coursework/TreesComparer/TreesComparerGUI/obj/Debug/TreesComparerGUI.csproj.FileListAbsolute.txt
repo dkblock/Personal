@@ -1,0 +1,13 @@
+D:\Projects\TreesComparer\TreesComparerGUI\bin\Debug\TreesComparerGUI.exe.config
+D:\Projects\TreesComparer\TreesComparerGUI\bin\Debug\TreesComparerGUI.exe
+D:\Projects\TreesComparer\TreesComparerGUI\bin\Debug\TreesComparerGUI.pdb
+D:\Projects\TreesComparer\TreesComparerGUI\bin\Debug\Trees.dll
+D:\Projects\TreesComparer\TreesComparerGUI\bin\Debug\Trees.pdb
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.csprojAssemblyReference.cache
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.Form1.resources
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.Properties.Resources.resources
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.csproj.GenerateResource.cache
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.csproj.CoreCompileInputs.cache
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.csproj.CopyComplete
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.exe
+D:\Projects\TreesComparer\TreesComparerGUI\obj\Debug\TreesComparerGUI.pdb

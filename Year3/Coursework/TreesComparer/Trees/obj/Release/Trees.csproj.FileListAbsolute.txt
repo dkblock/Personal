@@ -1,0 +1,6 @@
+D:\Projects\TreesComparer\Trees\bin\Release\Trees.dll
+D:\Projects\TreesComparer\Trees\bin\Release\Trees.pdb
+D:\Projects\TreesComparer\Trees\obj\Release\Trees.csproj.CoreCompileInputs.cache
+D:\Projects\TreesComparer\Trees\obj\Release\Trees.dll
+D:\Projects\TreesComparer\Trees\obj\Release\Trees.pdb
+D:\Projects\TreesComparer\Trees\obj\Release\Trees.csprojAssemblyReference.cache

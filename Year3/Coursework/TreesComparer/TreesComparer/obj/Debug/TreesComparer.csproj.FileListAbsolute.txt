@@ -1,0 +1,10 @@
+D:\Projects\TreesComparer\TreesComparer\bin\Debug\TreesComparer.exe.config
+D:\Projects\TreesComparer\TreesComparer\bin\Debug\TreesComparer.exe
+D:\Projects\TreesComparer\TreesComparer\bin\Debug\TreesComparer.pdb
+D:\Projects\TreesComparer\TreesComparer\bin\Debug\Trees.dll
+D:\Projects\TreesComparer\TreesComparer\bin\Debug\Trees.pdb
+D:\Projects\TreesComparer\TreesComparer\obj\Debug\TreesComparer.csprojAssemblyReference.cache
+D:\Projects\TreesComparer\TreesComparer\obj\Debug\TreesComparer.csproj.CoreCompileInputs.cache
+D:\Projects\TreesComparer\TreesComparer\obj\Debug\TreesComparer.csproj.CopyComplete
+D:\Projects\TreesComparer\TreesComparer\obj\Debug\TreesComparer.exe
+D:\Projects\TreesComparer\TreesComparer\obj\Debug\TreesComparer.pdb
