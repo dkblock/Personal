@@ -1,0 +1,6 @@
+D:\Projects\Lab6\Lab6\bin\Release\Lab6.exe.config
+D:\Projects\Lab6\Lab6\bin\Release\Lab6.exe
+D:\Projects\Lab6\Lab6\bin\Release\Lab6.pdb
+D:\Projects\Lab6\Lab6\obj\Release\Lab6.csproj.CoreCompileInputs.cache
+D:\Projects\Lab6\Lab6\obj\Release\Lab6.exe
+D:\Projects\Lab6\Lab6\obj\Release\Lab6.pdb
